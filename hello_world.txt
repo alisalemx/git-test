@@ -1,1 +1,3 @@
 Hello World!
+
+Testing Git commit with a subject and body.
